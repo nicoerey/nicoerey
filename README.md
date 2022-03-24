@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nicolas Rey</h1>
-<h3 align="center">A student for Web development</h3>
+<h3 align="center">Front end developer student</h3>
 
 - 🌱 I’m currently learning **CCS, HTML, Bootstrap, Sass**
 
